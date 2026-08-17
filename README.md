@@ -24,11 +24,11 @@
 
 <div align="center">
 
-[![wping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddddddddwp&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
+[![wping's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddddddddwp&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddddddddwp&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
 
 </div>
 
