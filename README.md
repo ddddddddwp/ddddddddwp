@@ -16,9 +16,25 @@
 - 🛠 Building AI/LLM tooling — [comet](https://github.com/dddddddddwp/comet) (agent skill harness for evaluated workflows), [gva-acs](https://github.com/dddddddddwp/gva-acs).
 - 💬 Ask me about AI memory, LLM agents, Python / Go.
 
-## 🧰 Tech Stack / 技术栈
+## 📌 Pinned / 置顶项目
 
-[![My Skills](https://skillicons.dev/icons?i=python,go)](https://skillicons.dev)
+<div align="center">
+
+### [☄️ rpamis/comet](https://github.com/rpamis/comet)
+Comet: agent skill harness for turning ideas into evaluated workflows
+
+![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/rpamis/comet?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/rpamis/comet?style=flat-square&color=blue)
+
+### [🧠 mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne)
+Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
+
+![Python](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/mnemosyne-oss/mnemosyne?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/mnemosyne-oss/mnemosyne?style=flat-square&color=blue)
+
+</div>
 
 ## 📊 GitHub Stats / 数据统计
 
