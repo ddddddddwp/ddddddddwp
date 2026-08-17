@@ -6,14 +6,14 @@
 
 **wping** · AI 记忆系统与 LLM 工具开发者
 
-[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [💡 codex-light](https://github.com/dddddddddwp/codex-light) · [🧭 astrolabe](https://github.com/dddddddddwp/astrolabe)
+[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [💡 codex-light](https://github.com/dddddddddwp/codex-light) · [🚀 gva-acs](https://github.com/dddddddddwp/gva-acs)
 
 </div>
 
 ## 🙋 About Me / 关于我
 
 - 🧠 **mnemosyne core contributor** — [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne): zero-cloud AI memory, SQLite-backed, one pure-Python dependency.
-- 🛠 Building AI/LLM tooling — [codex-light](https://github.com/dddddddddwp/codex-light) (Win11 status light for Codex), [astrolabe](https://github.com/dddddddddwp/astrolabe).
+- 🛠 Building AI/LLM tooling — [codex-light](https://github.com/dddddddddwp/codex-light) (Win11 status light for Codex), [gva-acs](https://github.com/dddddddddwp/gva-acs).
 - 💬 Ask me about AI memory, LLM agents, Python / Go.
 
 ## 🧰 Tech Stack / 技术栈
