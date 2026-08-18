@@ -42,7 +42,7 @@ Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python depen
 
 [![wping's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddddddddwp&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ddddddddwp&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
 
