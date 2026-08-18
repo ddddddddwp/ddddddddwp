@@ -6,14 +6,14 @@
 
 **wping** · AI 记忆系统与 LLM 工具开发者
 
-[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [☄️ comet](https://github.com/rpamis/comet) · [🚀 gva-acs](https://github.com/dddddddddwp/gva-acs)
+[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [☄️ comet](https://github.com/rpamis/comet) · [🚀 gva-acs](https://github.com/ddddddddwp/gva-acs)
 
 </div>
 
 ## 🙋 About Me / 关于我
 
 - 🧠 **mnemosyne core contributor** — [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne): zero-cloud AI memory, SQLite-backed, one pure-Python dependency.
-- 🛠 Building AI/LLM tooling — [comet](https://github.com/rpamis/comet) (agent skill harness for evaluated workflows), [gva-acs](https://github.com/dddddddddwp/gva-acs).
+- 🛠 Building AI/LLM tooling — [comet](https://github.com/rpamis/comet) (agent skill harness for evaluated workflows), [gva-acs](https://github.com/ddddddddwp/gva-acs).
 - 💬 Ask me about AI memory, LLM agents, Python / Go.
 
 ## 📌 Pinned / 置顶项目
@@ -40,17 +40,17 @@ Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python depen
 
 <div align="center">
 
-[![wping's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
+[![wping's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddddddwp&theme=tokyonight)](https://github.com/ddddddddwp)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ddddddddwp&theme=tokyonight&hide_border=true)](https://github.com/dddddddddwp)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ddddddddwp&theme=tokyonight&hide_border=true)](https://github.com/ddddddddwp)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddddddddwp&theme=tokyonight)](https://github.com/dddddddddwp)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddddddddwp&theme=tokyonight)](https://github.com/ddddddddwp)
 
 </div>
 
 ## 📈 Contribution Graph / 贡献热力图
 
-[![wping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddddddddwp&theme=tokyo-night)](https://github.com/dddddddddwp)
+[![wping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddddddddwp&theme=tokyo-night)](https://github.com/ddddddddwp)
 
 ---
 
