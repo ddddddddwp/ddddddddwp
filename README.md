@@ -6,14 +6,14 @@
 
 **wping** · AI 记忆系统与 LLM 工具开发者
 
-[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [☄️ comet](https://github.com/dddddddddwp/comet) · [🚀 gva-acs](https://github.com/dddddddddwp/gva-acs)
+[🧠 mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) · [☄️ comet](https://github.com/rpamis/comet) · [🚀 gva-acs](https://github.com/dddddddddwp/gva-acs)
 
 </div>
 
 ## 🙋 About Me / 关于我
 
 - 🧠 **mnemosyne core contributor** — [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne): zero-cloud AI memory, SQLite-backed, one pure-Python dependency.
-- 🛠 Building AI/LLM tooling — [comet](https://github.com/dddddddddwp/comet) (agent skill harness for evaluated workflows), [gva-acs](https://github.com/dddddddddwp/gva-acs).
+- 🛠 Building AI/LLM tooling — [comet](https://github.com/rpamis/comet) (agent skill harness for evaluated workflows), [gva-acs](https://github.com/dddddddddwp/gva-acs).
 - 💬 Ask me about AI memory, LLM agents, Python / Go.
 
 ## 📌 Pinned / 置顶项目
